@@ -9,6 +9,11 @@
 <br>
 <br>
 
+![LOC Stats](https://api.githubtrends.io/user/svg/Skilled5041/langs?time_range=one_year&include_private=True&group=other&theme=classic)
+
+<br>
+<br>
+
 ![Skilled's GitHub stats](https://github-readme-stats-zeta-rosy.vercel.app/api?username=skilled5041&show_icons=true&include_all_commits=true)
 
 <br>

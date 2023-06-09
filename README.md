@@ -5,10 +5,6 @@
 <br>
 
 ![Top Langs](https://github-readme-stats-zeta-rosy.vercel.app/api/top-langs/?username=skilled5041&layout=compact&exclude_repo=github-readme-stats&langs_count=99)
-
-<br>
-<br>
-
 ![LOC Stats](https://api.githubtrends.io/user/svg/Skilled5041/langs?time_range=one_year&include_private=True&group=other&theme=classic)
 
 <br>

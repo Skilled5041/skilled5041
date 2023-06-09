@@ -8,4 +8,4 @@
 <br>
 <br>
 
-![Skilled's GitHub stats](https://github-readme-stats-zeta-rosy.vercel.app/api?username=skilled5041&show_icons=true)
+![Skilled's GitHub stats](https://github-readme-stats-zeta-rosy.vercel.app/api?username=skilled5041&show_icons=true&include_all_commits=true)

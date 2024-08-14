@@ -1,6 +1,6 @@
-![Profile Visits](https://komarev.com/ghpvc/?username=skilled5041&style=flat-square)
+![Profile Visits](https://komarev.com/ghpvc/?username=skilled5041&style=flat-square**)
 
-Languages/frameworks/other stuff I know: HTML, CSS, Javascript/Typescript, Python, C++, Java, Git, SQL, Linux, Svelte, NextJS/react, TailwindCSS
+**Languages/frameworks/other stuff I know:** HTML, CSS, Javascript/Typescript, Python, C++, Java, Git, SQL, Linux, Svelte, NextJS/react, TailwindCSS
 
 < br>
 <br>

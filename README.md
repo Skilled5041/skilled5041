@@ -2,7 +2,7 @@
 
 **Languages/frameworks/other stuff I know:**
 <br>
-HTML, CSS, Javascript/Typescript, Python, C++, Java, Git, SQL, Linux, Svelte, NextJS/react, TailwindCSS
+HTML, CSS, Javascript/Typescript, Python, C++, Java, Git, SQL, Linux, Svelte, NextJS/react, TailwindCSS, Flask, FastAPI
 
 <br>
 <br>
